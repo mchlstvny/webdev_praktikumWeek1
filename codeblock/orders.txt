@@ -1,0 +1,4 @@
+Order #001 - Customer: John - Product: Laptop - Quantity: 1 - Total: $899.99
+Order #002 - Customer: Alice - Product: Mouse - Quantity: 2 - Total: $51.00
+Order #003 - Customer: Bob - Product: Keyboard - Quantity: 1 - Total: $45.00
+
