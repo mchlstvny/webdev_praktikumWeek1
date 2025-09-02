@@ -2,7 +2,7 @@
 /* ============================
             FUNCTIONS
    ============================ */
-echo "<br>==== FUNCTIONS ====<br>";
+echo "==== FUNCTIONS ====<br>";
 
 // Function declaration
 $firstName = 'John';

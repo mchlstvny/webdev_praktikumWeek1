@@ -2,7 +2,7 @@
 /* ============================
             FILES
    ============================ */
-echo "<br>==== FILES ====<br>";
+echo "==== FILES ====<br>";
 
 // Get current directory
 $currentDir = __DIR__;
@@ -55,7 +55,7 @@ $csvFile = $currentDir . '/customers.csv';
 $customers = [
     ['name' => 'John', 'age' => 30, 'membership' => 'Gold'],
     ['name' => 'Alice', 'age' => 25, 'membership' => 'Silver'],
-    ['name' => 'Bob', 'age' => 40, 'membership' => 'Platinum']
+    ['name' => 'Bob', 'age' => 40, 'membership' => 'Regular']
 ];
 
 // Open CSV for writing

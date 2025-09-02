@@ -1,15 +1,15 @@
 <?php
 /* ============================
-        OUTTPUT & INPUT
+        OUTPUT & INPUT
    ============================ */
 
 echo "<b>==== OUTPUT & INPUT ====</b><br>";
 
 // Input
-$name = readline('What is your name: ');
-$age = readline('How old are you: ');
-$uni = readline('Which university do you study at: ');
+$customerName = readline('Enter your name: ');
+$customerAge = readline('Enter your age: ');
+$favProduct = readline('Enter your favorite product: ');
 
 // Output
-echo "Hello, my name is $name. I am $age years old and I study at $uni University.<br>";
+echo "Hello, $customerName! You are $customerAge years old and your favorite product is $favProduct.<br>";
 ?>

@@ -2,7 +2,7 @@
 /* ============================
        ERROR HANDLING
    ============================ */
-echo "==== ERROR HANDLING ====<br>";
+echo "<b>==== ERROR HANDLING ====</b><br>";
 
 $products = ['Laptop', 'Mouse', 'Keyboard'];
 

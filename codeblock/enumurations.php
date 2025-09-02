@@ -2,7 +2,7 @@
 /* ============================
         ENUMERATIONS
    ============================ */
-echo "<br>==== ENUMERATIONS ====<br>";
+echo "<b>==== ENUMERATIONS ====</b><br>";
 
 // Basic enum declaration for order status
 enum OrderStatus
